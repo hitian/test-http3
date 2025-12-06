@@ -1,4 +1,4 @@
-module http3check
+module github.com/hitian/test-http3
 
 go 1.25
 
